@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-failure-lab](https://github.com/RLASAF12/agent-failure-lab/tree/main/prompthijack) (folder `prompthijack/`, full history preserved). Archived 2026-10-04.
+
 # ⚡ PromptHijack — Agent Failure Series #11
 
 > How external content silently hijacks your AI agent
